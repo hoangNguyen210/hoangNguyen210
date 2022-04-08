@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at University of Science (HCMUS) 
 - 🌱 I’m currently learning Machine Learning, Deep Learning
-- 👯 I’m looking to collaborate with some AI Research company
+- 👯 I’m looking for a job in some AI Research company
 - 📫 How to reach me: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hoangng210a@gmail.com)
