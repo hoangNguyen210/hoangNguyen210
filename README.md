@@ -77,10 +77,10 @@ Talk to me about:
 ![Lan stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangNguyen210&show_icons=true&theme=radical)
 
 - Some of my recent **Research/Project**:
-<a href="https://github.com/hoangNguyen210/Fall-Detection-Project-1">
+<a href="https://github.com/hoangNguyen210/Fall-Detection-Research-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangNguyen210&repo=Fall-Detection-Project-1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/hoangNguyen210/Fall-Detection-Project-2">
+<a href="https://github.com/hoangNguyen210/Fall-Detection-Research-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangNguyen210&repo=Fall-Detection-Project-2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/hoangNguyen210/ML-DL">
