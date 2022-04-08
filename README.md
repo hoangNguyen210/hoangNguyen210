@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - I love to explore and learn about new things 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hoangNguyen210&count_private=true&show_icons=true&theme=radical)
-
+![Lan stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
 
 
 ## Hello World!! 🤔
