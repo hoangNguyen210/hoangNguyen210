@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/hoangNguyen210/Fall-Detection-Project-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangNguyen210&repo=Fall-Detection-Project-2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/hoangNguyen210/ML-DL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangNguyen210&repo=ML-DL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 
