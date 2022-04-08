@@ -4,9 +4,9 @@
 
 <!-- **hoangNguyen210/hoangNguyen210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at University of Science (HCMUS) 
+
+- 🔭 I’m currently studying at University of Science (HCMUS) (will graduate soon) 
 - 🌱 I’m currently learning Machine Learning, Deep Learning
 - 👯 I’m looking for a job in some AI Research company
 - 📫 How to reach me: 
