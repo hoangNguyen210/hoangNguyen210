@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
 [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com) -->
-- I love to explore and learn about new things 
+- Some of my GitHub Statistics :
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hoangNguyen210&count_private=true&show_icons=true&theme=radical)
 ![Lan stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangNguyen210&show_icons=true&theme=radical)
 
+- Some of my recent **Research/Project**:
 <a href="https://github.com/hoangNguyen210/Fall-Detection-Project-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangNguyen210&repo=Fall-Detection-Project-1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
