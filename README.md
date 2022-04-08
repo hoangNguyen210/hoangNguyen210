@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
 - 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
 
+- 📫 Read my blogs: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://medium.com/harsh-kumar-khatri).
 
 
 ## ⚡ Technologies
