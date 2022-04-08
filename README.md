@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](U031FLAHD1V)
 [![Twitter](https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ](https://twitter.com/hoangng210a)
-- 🎯 Portfolio site: [Portfolio](https://hoangnguyen210.github.io/).
+- 🎯 Portfolio site: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hoangnguyen210.github.io/).
 - 💬 Feel free to ask me about anything.
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
