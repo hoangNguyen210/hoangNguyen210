@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com) -->
 - I love to explore and learn about new things 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hoangNguyen210&count_private=true&show_icons=true&theme=radical)
+
+
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything 
