@@ -76,6 +76,15 @@ Talk to me about:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hoangNguyen210&count_private=true&show_icons=true&theme=radical)
 ![Lan stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangNguyen210&show_icons=true&theme=radical)
 
+
+<br/>
+<br/>
+
+<a href="https://github.com/hoangNguyen210/github-readme-activity-graph"><img alt="Hoang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hoangNguyen210&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 - Some of my recent **Research/Project**:
 <a href="https://github.com/hoangNguyen210/Fall-Detection-Research-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangNguyen210&repo=Fall-Detection-Research-1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
