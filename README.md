@@ -88,3 +88,7 @@ Talk to me about:
 </a>
 
 
+
+
+
+![snake gif](https://github.com/hoangNguyen210/hoangNguyen210/blob/output/github-contribution-grid-snake.gif)
